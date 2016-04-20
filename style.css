@@ -1,0 +1,258 @@
+/*Section Headers*/
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 70px;
+    color: #535f6b;
+}
+
+
+/*===========================*/
+
+p {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-family: 'Marvel', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: #778899
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+div.hr {
+    color: navy;
+    background-color: navy;
+    height: 4px;
+    width: auto;
+}
+
+
+/*===========================*/
+
+
+/*Hello Section*/
+
+#hello {
+    background-image: url("https://snap-photos.s3.amazonaws.com/img-thumbs/960w/R63EKOT00F.jpg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 680px;
+}
+
+h3 {
+    font-size: 100px;
+    font-family: 'Shadows Into Light Two', cursive;
+    padding-top: 140px;
+    /*    color: #23282d;*/
+    color: navy;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#main {
+    font-family: 'Marvel', sans-serif;
+    font-size: 30px;
+    color: navy;
+    /*    color: #778899;*/
+    padding-top: 86px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+/*===========================*/
+
+
+/* skill icons*/
+
+#skill {
+    padding-top: 30px;
+    padding-right: 55px;
+    padding-left: 55px;
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: #d6dbe0;
+    height: auto;
+}
+
+#skills {
+    height: auto;
+}
+
+
+/*===========================*/
+
+
+/* contact icons*/
+
+.icons {
+    background-image: url("strawberry%20papers12%20(1).jpg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 50vh;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#social-icons {
+    margin-right: 15px;
+    margin-left: 0 auto;
+    margin-bottom: 25px;
+    margin-top: 0px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+.btn-round {
+    border-radius: 10%;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    padding: 20;
+}
+
+.btn-round i {
+    font-size: 40px;
+    top: 15px;
+    position: relative;
+}
+
+.btn.btn-clear {
+    color: #535f6b;
+    background: none;
+    background-color: none;
+    font-weight: bold;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+}
+
+.btn.btn-clear:hover,
+.btn.btn-clear.selected {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+}
+
+#resume {
+    color: #535f6b;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 35px;
+    padding-top: 20px;
+}
+
+
+/*===========================*/
+
+
+/*About section*/
+
+#about {
+    background-color: #778899;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: auto;
+    color: #778899;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.me {
+    color: #3b444c;
+}
+
+.profile {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/*===========================*/
+
+
+/*Projects section*/
+
+.projects {
+    height: auto;
+    padding-right: 30px;
+    background-image: url("http://www.fabnfree.com/wp-content/uploads/2012/09/herringbone.png");
+}
+
+#personal {
+    color: red;
+}
+
+li {
+    font-family: 'Marvel', sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+#intro {
+    padding-top: -100px;
+}
+
+.images {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin: 20px;
+}
+
+
+/*===========================*/
+
+
+/*Contact Me*/
+
+.footer {
+    background-image: url("strawberry%20papers12%20(1).jpg");
+    color: white;
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: auto;
+    text-align: center;
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 20px;
+    padding-top: 45px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.glyphicon-earphone {
+    padding: 30px;
+    color: #535f6b;
+}
+
+h4 {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color: #535f6b;
+    font-size: 50px;
+}
+
+.glyphicon-envelope {
+    color: #535f6b;
+}
+
+#email {
+    color: #535f6b;
+}
+
+
+/*===========================*/
